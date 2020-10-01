@@ -25,6 +25,7 @@ Our Dev team built the Website and optimized the html and css code to meet the c
   1- ZipCodeToLocation
 > OpenWeatherAPI
 > Pixabay API
+Note: Please be mindful that one of the limitation we faced with ZipCodeAPI is that the API Key changes on a daily basis, if you are testing please you can visit https://www.zipcodeapi.com/API and put in the Key provided there into the js file and you should be all set.
 
 ## CSS Framework Used:
 Bulma

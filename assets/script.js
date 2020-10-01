@@ -398,7 +398,7 @@ function getRestaurantsReviews(d) {
 function getCityFromZipCode(z) {
 
     var queryZip =
-        "https://www.zipcodeapi.com/rest/CbfhCAHNTXyB8CeRplNymJtyOJaefu6l2QeUM1bjlDtFdJTgg0Fb5DaUtxvlRx4V/info.json/" + z + "/degrees";
+        "https://www.zipcodeapi.com/rest/iHdJBCy7m52pf7NL89ljxF957KXisddXFK3YbBSiPb93UuYE3Zi1aTyv9aWptIyb/info.json/" + z + "/degrees";
 
     $.ajax({
         url: queryZip,
