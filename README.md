@@ -26,7 +26,8 @@ Our Dev team built the Website and optimized the html and css code to meet the c
 > OpenWeatherAPI
 > Pixabay API
 ## API Technical Implementation Note
-Please be mindful that one of the limitation we faced with ZipCodeAPI is that the API Key changes on a daily basis, if you are testing please you can visit https://www.zipcodeapi.com/API and put in the Key provided there into the js file and you should be all set.
+> Please be mindful that one of the limitation we faced with ZipCodeAPI is that the API Key changes on a daily basis, if you are testing please you can visit https://www.zipcodeapi.com/API and put in the Key provided there into the js file and you should be all set.
+> zipCode API had issues with the Cross-Origin, which forced us to add the CORS extension to google chrome, so please use chrome and add this extension for the testing purposes.
 
 ## CSS Framework Used:
 Bulma
@@ -61,7 +62,7 @@ THEN I am presented with all relevant restaurant information; Rate, Night Life I
 
 ```
 ###
-Deployed application URL: https://jordannaei.github.io/codeQuiz/index.html
+Deployed application URL: https://jordannaei.github.io/eatWhere/ 
 <img src="img/app.PNG" alt= "this is the app main page">
 
 ###
