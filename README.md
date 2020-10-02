@@ -62,7 +62,7 @@ THEN I am presented with all relevant restaurant information; Rate, Night Life I
 
 ```
 ###
-Deployed application URL: https://jordannaei.github.io/codeQuiz/index.html
+Deployed application URL: https://jordannaei.github.io/eatWhere/ 
 <img src="img/app.PNG" alt= "this is the app main page">
 
 ###
