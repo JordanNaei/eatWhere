@@ -17,14 +17,15 @@ Our Dev team built the Website and optimized the html and css code to meet the c
     7- We included sceenshots of different reports to confirm the deliveriables. (Please check the word document attached).
 
 ```
-## API Used
+## API and Technologies Used:
 > Zomato APIs
-  1- gecode.
+  1- geocode.
   2-reviews
 > ZipCodeAPI
   1- ZipCodeToLocation
 > OpenWeatherAPI
 > Pixabay API
+Ajax
 ## API Technical Implementation Note
 > Please be mindful that one of the limitation we faced with ZipCodeAPI is that the API Key changes on a daily basis, if you are testing please you can visit https://www.zipcodeapi.com/API and put in the Key provided there into the js file and you should be all set.
 > zipCode API had issues with the Cross-Origin, which forced us to add the CORS extension to google chrome, so please use chrome and add this extension for the testing purposes.
